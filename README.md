@@ -55,7 +55,7 @@ Este proyecto implementa un compilador simplificado para un subconjunto del leng
 - Punto de entrada del programa
 
 ### MiniCompilador.pdf
-Se anexa un **[documento📄](documento\MiniCompilador.pdf)** que contiene diversas pruebas sobre el funcionamiento del compilador, así como una breve descripción de cada parte del código.
+Se anexa un **[documento📄](https://github.com/ariadna-ge/miniCompilador/blob/ceaea5f340eb8c387da20937c964dadac34bc386/documento/MiniCompilador.pdf)** que contiene diversas pruebas sobre el funcionamiento del compilador, así como una breve descripción de cada parte del código.
 
 ## Colaboradoras 👩🏼‍💻
 El proyecto fue realizado para la materia de **_Compiladores_** en la Facultad de Estudios Superiores Aragón durante el semestre **2025-II**.
